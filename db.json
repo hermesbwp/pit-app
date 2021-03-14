@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "primeiro post",
+      "author": "Hermes",
+      "id": 2
+    },
+    {
+      "title": "primeiro post",
+      "author": "Hermes",
+      "id": 3
+    },
+    {
+      "title": "Chata post",
+      "author": "Gabi",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
